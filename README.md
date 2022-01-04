@@ -12,3 +12,4 @@ Truman Tapia
 - **R code/top_200_password_2020_by_country.csv**: dataset used in this project.
 
 ## Video
+https://youtu.be/jnmPsODQQsk
